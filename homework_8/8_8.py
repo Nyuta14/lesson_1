@@ -16,12 +16,7 @@ def some_func():
 
 some_func()
 
-"""
 
->>> assertion
-result
-
-"""
 
 
 
